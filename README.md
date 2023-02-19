@@ -18,3 +18,16 @@ Download the following files to help you get started:
 
 [KaseiCoinCrowdsale.sol](./Starter_Code/KaseiCoinCrowdsale.com)
 
+1. Create the KaseiCoin Token Contract
+
+2. Create the KaseiCoin Crowdsale Contract
+
+3. Create the KaseiCoin Deployer Contract
+
+4. Deploy and Test the Crowdsale on a Local Blockchain
+
+![alt=""](Images/KaseiCoin.sol.png)
+
+![alt=""](Images/KaseiCoinCrowdsalepic.png)
+
+![alt=""](Images/Deploy and test crowdsale on local blockchain.png)
