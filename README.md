@@ -30,6 +30,8 @@ Download the following files to help you get started:
 
 ![alt=""](Images/KaseiCoinCrowdsalepic.png)
 
+![alt=""](Images/Deployandtest.png)
+
 
 
 
